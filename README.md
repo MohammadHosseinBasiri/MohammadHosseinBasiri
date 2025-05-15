@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Mohammad Hossein
+- 👋 Hi, I’m Hossein
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning new stuff 
-- 📫 email me on Basiri1994@gmail.com
+- 📫 email me on basiri.hossein@proton.me
 
 <!---
 MohammadHosseinBasiri/MohammadHosseinBasiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

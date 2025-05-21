@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hossein
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning new stuff 
+- 🌱 I’m currently creating the new project 
 - 📫 email me on basiri.hossein@proton.me
 
 <!---
